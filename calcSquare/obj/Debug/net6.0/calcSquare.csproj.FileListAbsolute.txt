@@ -1,0 +1,15 @@
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\bin\Debug\net6.0\calcSquare.exe
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\bin\Debug\net6.0\calcSquare.deps.json
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\bin\Debug\net6.0\calcSquare.runtimeconfig.json
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\bin\Debug\net6.0\calcSquare.dll
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\bin\Debug\net6.0\calcSquare.pdb
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.csproj.AssemblyReference.cache
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.AssemblyInfoInputs.cache
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.AssemblyInfo.cs
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.csproj.CoreCompileInputs.cache
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.dll
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\refint\calcSquare.dll
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.pdb
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\calcSquare.genruntimeconfig.cache
+C:\Users\wxlf\source\repos\calcSquare\calcSquare\obj\Debug\net6.0\ref\calcSquare.dll
